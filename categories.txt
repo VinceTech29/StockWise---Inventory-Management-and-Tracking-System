@@ -1,0 +1,7 @@
+Cangoods|Active
+Chemicals|Active
+Condiments |Active
+Cleanser|Active
+Drinks|Active
+Junkfoods|Active
+Meat|Active

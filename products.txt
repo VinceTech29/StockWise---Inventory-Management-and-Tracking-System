@@ -1,0 +1,20 @@
+1001|Coke|25|100|Drinks|Active
+1001|Real Leaf|35|400|Drinks|Active
+1001|Mineral water|20|400|Drinks|Active
+1001|Gatorade|56|100|Drinks|Active
+1001|Sting Energy|18|50|Cangoods|Active
+1001|Piattos|20|100|Junkfoods|Active
+1001|Pillows|10|80|Junkfoods|Active
+1001|555 tuna|45|100|Cangoods|Active
+1001|Century Tuna|45|100|Cangoods|Active
+1001|Sardines|22|400|Cangoods|Active
+1001|Soy sause|12|40|Condiments |Active
+1001|Magic sarap|5|100|Condiments |Active
+1001|Mercury|1000|10|Chemicals|Active
+1001|Dry Nitrogen|2000|20|Chemicals|Active
+1001|Ariel|18|60|Cleanser|Active
+1001|Zonrox|11|70|Cleanser|Active
+17|Joy|10|100|Cleanser|Inactive
+1001|Alcohol|20|100|Cleanser|Active
+1001|Tanduay Select|185|50|Drinks|Active
+20|GSM|135|50|Drinks|Inactive
